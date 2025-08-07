@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <configuration>
     <PlatformWhitelist>
-        # MDM
 		<App1>com.oss.egate</App1>
 		<App1>com.tripleu.mdm</App1>
-		# Normal Apps
 		<App1>com.fb.fluid</App1>
     </PlatformWhitelist>
 </configuration>

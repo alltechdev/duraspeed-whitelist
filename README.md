@@ -1,0 +1,2 @@
+# duraspeed-whitelist
+configuration.xml

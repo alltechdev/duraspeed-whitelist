@@ -4,5 +4,6 @@
 		<App1>com.oss.egate</App1>
 		<App1>com.tripleu.mdm</App1>
 		<App1>com.fb.fluid</App1>
+		<App1>app.tfs.prod</App1>
     </PlatformWhitelist>
 </configuration>
